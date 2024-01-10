@@ -1,0 +1,6 @@
+Package: alsa-xiaomi-cepheus
+Version: 1.0
+Architecture: arm64
+Maintainer: Zeyan Li <qaz6750@outlook.com>
+Depends: alsa-ucm-conf
+Description: Alsa UCM configurations for XiaoMi 9

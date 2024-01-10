@@ -1,0 +1,6 @@
+Package: linux-xiaomi-cepheus
+Version: 6.7.0-sm8150
+Architecture: arm64
+Maintainer: Zeyan Li <qaz6750@outlook.com>
+Section: kernel
+Description: Kernel and Modules for XiaoMi 9

@@ -1,0 +1,7 @@
+Package: firmware-xiaomi-cepheus
+Version: 1.0
+Architecture: arm64
+Maintainer: Zeyan Li <qaz6750@outlook.com>
+Conflicts: linux-firmware
+Replaces: linux-firmware
+Description: Firmware blobs for XiaoMi 9
